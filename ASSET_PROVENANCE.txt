@@ -1,0 +1,5 @@
+Asset: Unitree Go2 from MuJoCo Menagerie
+Source: https://github.com/google-deepmind/mujoco_menagerie/tree/370c43965323c0944b433b202aac5058b5f907a9/unitree_go2
+Repository revision: 370c43965323c0944b433b202aac5058b5f907a9
+Model license: BSD-3-Clause; see vendor/unitree_go2/LICENSE.
+Model alone does not include a walking controller. The project gait is experimental.
